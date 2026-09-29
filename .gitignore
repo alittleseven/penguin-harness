@@ -41,3 +41,6 @@ packages/landing/.blog-assets/
 /design
 /AGENTS.md
 /CLAUDE.md
+
+# opencode host runtime dir (node_modules, regenerated on demand)
+.opencode/
